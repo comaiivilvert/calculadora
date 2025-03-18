@@ -58,13 +58,11 @@ namespace CalculadoraConsoleApp
                 }
 
                 Console.Write("Digita o Primeiro número: ");
-                string strPrimeiroNumero = Console.ReadLine();
-                decimal primeiroNumero = Convert.ToDecimal(strPrimeiroNumero);
+                decimal primeiroNumero = Convert.ToDecimal(Console.ReadLine());
                 
 
                 Console.Write("Digita o Segundo número: ");
-                string strSegundoNumero = Console.ReadLine();
-                decimal segundoNumero = Convert.ToDecimal(strSegundoNumero);
+                decimal segundoNumero = Convert.ToDecimal(Console.ReadLine());
                 
 
 
