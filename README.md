@@ -1,5 +1,9 @@
 # Calculadora Tabajara 2025
 
+![](https://imgur.com/FLQOupu.gif)
+
+
+
 ## Introdução
 
 Uma calculadora de console simples que permite realizar as operações básicas, a tabuada e o historico de operações.
@@ -11,3 +15,7 @@ Uma calculadora de console simples que permite realizar as operações básicas, a 
 - **Histórico de Operações**: A calculadora é capaz de armazenar um histórico de operações.
 
 
+
+## Tecnologias
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,cs,dotnet,visualstudio)](https://skillicons.dev)
